@@ -12,5 +12,15 @@ func main() {
 	Exercicio9()
 	Exercicio10()
 	Exercicio11()
+	Exercicio12()
+	Exercicio13()
+	Exercicio14()
+	Exercicio15()
+	Exercicio16()
+	Exercicio17()
+	Exercicio18()
+	Exercicio19()
+	Exercicio20()
+	Exercicio21()
 
 }
